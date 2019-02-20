@@ -4,17 +4,17 @@ You need minimum 1GB RAM for succesfully run playbook.
 
 Software version.
 
-Ansible 2.7.5
+Ansible 2.0.0.2
 
 Centos 6/7
 
-php 5.4
+Ubuntu 16.04 LTS
 
-nginx 1.14
+php 7.0/7.1/7.2/7.3
 
-MariaDB Ver 15.1 Distrib 5.5.60
+nginx 1.10
 
-
+mysql  Ver 14.14 Distrib 5.7.25
 
 run command: 
 
