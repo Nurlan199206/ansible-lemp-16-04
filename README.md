@@ -27,11 +27,11 @@ mkdir /etc/ansible/roles
 
 for Debian like distros
 
-git clone https://github.com/Nurlan199206/ansible-lemp
+git clone https://github.com/Nurlan199206/ansible-lemp-16-04
 
 and
 
-ansible-playbook --connection=local -s /etc/ansible/roles/ansible-lemp/nginx.yml
+ansible-playbook --connection=local -s /etc/ansible/roles/ansible-lemp-16-04/nginx.yml
 
 
 
