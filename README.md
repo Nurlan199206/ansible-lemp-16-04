@@ -1,4 +1,4 @@
-# nginx-php-fpm installation on CentOS 6/7 or Ubuntu 16.04LTS/Debian9
+# nginx-php-fpm installation on CentOS 6/7 or Ubuntu 16.04LTS
 
 You need minimum 1GB RAM for succesfully run playbook.
 
